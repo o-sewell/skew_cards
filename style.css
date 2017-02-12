@@ -206,6 +206,7 @@ p {
 
 .button-one {
 	align-self: flex-end;
+	margin-right: 1em;
 }
 
 .card_two {
@@ -228,6 +229,7 @@ p {
 
 .button-two {
 	align-self: flex-start;
+	margin-left: 1em;
 }
 
 @media(min-width: 768px) {
